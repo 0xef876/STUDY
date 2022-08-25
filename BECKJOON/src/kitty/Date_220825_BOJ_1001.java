@@ -1,3 +1,7 @@
+/*
+ * A - B
+ * 
+ */
 package kitty;
 
 import java.util.Scanner;
