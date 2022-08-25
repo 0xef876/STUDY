@@ -1,3 +1,7 @@
+/*
+ * A + B
+ * https://www.acmicpc.net/problem/1001
+ */
 package kitty;
 
 import java.util.Scanner;
