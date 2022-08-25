@@ -1,13 +1,12 @@
 /*
- * A+B
- * https://www.acmicpc.net/problem/1000
+ * A - B
+ * https://www.acmicpc.net/problem/1001
  */
-
 package kitty;
 
 import java.util.Scanner;
 
-public class Date_220825_BOJ_1000 {
+public class Date_220825_BOJ_1001 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -16,7 +15,7 @@ public class Date_220825_BOJ_1000 {
 		int b = sc.nextInt();
 		sc.close();
 		
-		System.out.println(a+b);
-		}
+		System.out.println(a-b);
+	}
 
 }
