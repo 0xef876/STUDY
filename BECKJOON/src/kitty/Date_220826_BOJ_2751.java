@@ -12,7 +12,7 @@ public class Date_220826_BOJ_2751 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+	
 		Scanner sc = new Scanner(System.in);
 		StringBuilder sb = new StringBuilder();
 		int n = sc.nextInt();
