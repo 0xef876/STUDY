@@ -8,3 +8,9 @@ BOJ 1152,2475,2577,2751,11720 solved <br>
 <br>
 [DATE : 220827, Bronze & Silver Problems]<br>
 BOJ 1929,2609 solved <br>
+<br>
+[DATE : 220829, Silver Problem] <br>
+BOJ 1920 solved <br>
+<br>
+[DATE : 220831, Silver Problems] <br>
+BOJ <br>
