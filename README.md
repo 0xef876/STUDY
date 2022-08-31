@@ -13,4 +13,4 @@ BOJ 1929,2609 solved <br>
 BOJ 1920 solved <br>
 <br>
 [DATE : 220831, Silver Problems] <br>
-BOJ <br>
+BOJ 1978, solved<br>
