@@ -16,5 +16,5 @@ BOJ 1920 solved <br>
 BOJ 1978,2164,2839 solved<br>
 <br>
 [DATE : 230109, Bronze Problems] <br>
-BOJ 10818,10950,10952,11654,2675,2920,8958 solved<br>
+BOJ 10818,10950,10952,11654,2675,2920,8958,2562 solved<br>
 <br>
