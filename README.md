@@ -18,3 +18,6 @@ BOJ 1978,2164,2839 solved<br>
 [DATE : 230109, Bronze Problems] <br>
 BOJ 10818,10950,10952,11654,2675,2920,8958,2562 solved<br>
 <br>
+[DATE : 230111, Class1++ Problems] <br>
+BOJ 10171, 10172, 10809, 10871, 1157, 1546, 2742, 2753, 2884, 2908, 3052, 9498 solved<br>
+<br>
