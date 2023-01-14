@@ -24,3 +24,6 @@ BOJ 10171, 10172, 10809, 10871, 1157, 1546, 2742, 2753, 2884, 2908, 3052, 9498 s
 [DATE : 230112, Class2 Problems] <br>
 BOJ 4153, 10250,1085, 15829 solved <br>
 <br>
+[DATE : 230114, Easy One Problem] <br>
+BOJ 10807 solved <br>
+<br>
