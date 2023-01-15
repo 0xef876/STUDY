@@ -27,3 +27,6 @@ BOJ 4153, 10250,1085, 15829 solved <br>
 [DATE : 230114, Easy One Problem] <br>
 BOJ 10807 solved <br>
 <br>
+[DATE : 230115, Easy One Problem] <br>
+BOJ 5597 solved <br>
+<br>
