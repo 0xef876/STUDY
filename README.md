@@ -30,3 +30,7 @@ BOJ 10807 solved <br>
 [DATE : 230115, Easy One Problem] <br>
 BOJ 5597 solved <br>
 <br>
+[DATE : 230116, Class 2 !! Good! ] <br>
+BOJ 2869, 10814, 1259
+<br>
+
