@@ -1,4 +1,5 @@
 # BOJ 11650
+
 def solution():
     li =  []
     N = int(input())
