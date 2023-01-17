@@ -34,5 +34,5 @@ BOJ 5597 solved <br>
 BOJ 2869, 10814, 1259 solved <br>
 <br>
 [DATE : 230117] <br>
-BOJ 11050(py) <br>
+BOJ 11050(py),1181(py),11650(py),11866(py) <br>
 <br>
