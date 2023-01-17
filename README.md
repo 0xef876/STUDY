@@ -1,4 +1,4 @@
-# STUDY_JAVA
+# STUDY
 
 [DATE : 220825, Bronze Problems]<br>
 BOJ 1000,1001,1008,1330,2438,2475,2557,2739,2741 solved <br>
@@ -33,4 +33,6 @@ BOJ 5597 solved <br>
 [DATE : 230116, Class 2 !! Good! ] <br>
 BOJ 2869, 10814, 1259 solved <br>
 <br>
-
+[DATE : 230117] <br>
+BOJ 11050(py) <br>
+<br>
