@@ -34,8 +34,8 @@ BOJ 5597 solved <br>
 BOJ 2869, 10814, 1259 solved <br>
 <br>
 [DATE : 230117] <br>
-BOJ 11050(py),1181(py),11650(py),11866(py),10828(py),10845(py) solved <br>
+BOJ 11050,1181,11650,11866,10828,10845 solved <br>
 <br>
-[DATE : 230118] <br>
-BOJ 1018(py),10816(py),10866(py),9012(py) solved <br>
+[DATE : 230118 , Achieve Silver II ~ ] <br>
+BOJ 1018,10816,10866,9012,2231,2775,10989,11651,7568  solved <br>
 <br>
