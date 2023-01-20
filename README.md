@@ -1,4 +1,6 @@
 # STUDY
+* PRO : Programmers Problems
+* BOJ : Baekjoon Problems
 
 [DATE : 220825, Bronze Problems]<br>
 BOJ 1000,1001,1008,1330,2438,2475,2557,2739,2741 solved <br>
@@ -44,5 +46,6 @@ BOJ 1436,4949,10773 solved <br>
 <br>
 [DATE : 230120] <br>
 BOJ 1966, 2108, 1874 solved <br>
+PRO Find_sick_animal solved <br>
 <br>
 
