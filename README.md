@@ -48,4 +48,7 @@ BOJ 1436,4949,10773 solved <br>
 BOJ 1966, 2108, 1874 solved <br>
 PRO Find_sick_animal, Find_animal_name_have solved <br>
 <br>
+[DATE : 230121] <br>
+BOJ 1735 solved <br>
+<br>
 
