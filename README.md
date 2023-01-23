@@ -51,4 +51,6 @@ PRO Find_sick_animal, Find_animal_name_have solved <br>
 [DATE : 230122] <br>
 BOJ 1735 solved <br>
 <br>
-
+[DATE : 230123] <br>
+BOJ 1654, 2805 solved <br>
+<br>
