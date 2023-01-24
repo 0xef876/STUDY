@@ -57,3 +57,6 @@ BOJ 1654, 2805 solved <br>
 [DATE : 230124] <br>
 BOJ 18111 solved <br>
 <br>
+[DATE : 230125] <br>
+BOJ 17219 solved <br>
+<br>
