@@ -63,3 +63,6 @@ BOJ 17219 solved <br>
 [DATE : 230126] <br>
 BOJ 1764 solved <br>
 <br>
+[DATE : 230127] <br>
+BOJ 1676, 1620 solved <br>
+<br>
