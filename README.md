@@ -67,5 +67,5 @@ BOJ 1764 solved <br>
 BOJ 1676, 1620 solved <br>
 <br>
 [DATE : 230130] <br>
-BOJ 11723,11399, 1107 solved <br>
+BOJ 11723,11399, 1107,11004 solved <br>
 <br>
