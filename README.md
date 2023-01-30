@@ -70,5 +70,5 @@ BOJ 1676, 1620 solved <br>
 BOJ 11723,11399, 1107,11004, 10974 solved <br>
 <br>
 [DATE : 230131] <br>
-BOJ 11047 solved <br>
+BOJ 11047, 1003 solved <br>
 <br>
