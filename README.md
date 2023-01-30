@@ -66,6 +66,6 @@ BOJ 1764 solved <br>
 [DATE : 230127] <br>
 BOJ 1676, 1620 solved <br>
 <br>
-[DATE : 230130] <br>
-BOJ 11723,11399, 1107,11004 solved <br>
+[DATE : 230130, Achieve Silver I ~ ] <br>
+BOJ 11723,11399, 1107,11004, 10974 solved <br>
 <br>
