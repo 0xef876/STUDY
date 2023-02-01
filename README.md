@@ -75,3 +75,6 @@ BOJ 11047, 1003 solved <br>
 [DATE : 230201] <br>
 BOJ 1359 solved <br>
 <br>
+[DATE : 230202] <br>
+BOJ 9375 solved <br>
+<br>
