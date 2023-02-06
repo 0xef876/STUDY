@@ -84,3 +84,6 @@ BOJ 11279 solved <br>
 [DATE : 230206] <br>
 BOJ 1436 solved <br>
 <br>
+[DATE : 230207] <br>
+BOJ 11286 solved <br>
+<br>
