@@ -91,4 +91,4 @@ BOJ 11286 solved <br>
 BOJ 9095, 1251 solved <br>
 <br>
 [DATE : 230211] <br>
-BOJ 9095, 11726 solved <br>
+BOJ 11726 solved <br>
