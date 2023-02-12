@@ -92,3 +92,6 @@ BOJ 9095, 1251 solved <br>
 <br>
 [DATE : 230211] <br>
 BOJ 11726 solved <br>
+<br>
+[DATE : 230212] <br>
+BOJ 11727 solved <br>
