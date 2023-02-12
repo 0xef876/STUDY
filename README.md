@@ -95,5 +95,5 @@ BOJ 11726 solved <br>
 <br>
 [DATE : 230212] <br>
 BOJ 11727, 2579,11659 solved <br>
-[DATE : 230213] <br>
+[DATE : 230213, Gold Level Up !! ] <br>
 BOJ 9461 solved <br>
