@@ -99,3 +99,5 @@ BOJ 11727, 2579,11659 solved <br>
 BOJ 9461 solved <br>
 [DATE : 230214] <br>
 BOJ 2606 solved <br>
+[DATE : 230215] <br>
+BOJ 13699 solved <br>
