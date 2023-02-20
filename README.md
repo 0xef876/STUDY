@@ -114,3 +114,6 @@ BOJ 15624 solved <br>
 [DATE : 230218] <br>
 BOJ 2407 solved <br>
 <br>
+[DATE : 230220] <br>
+BOJ 1312 solved <br>
+<br>
