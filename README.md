@@ -123,3 +123,6 @@ BOJ 1769 solved <br>
 [DATE : 230222] <br>
 BOJ 1308 solved <br>
 <br>
+[DATE : 230302] <br>
+BOJ 2161 solved <br>
+<br>
