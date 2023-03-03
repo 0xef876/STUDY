@@ -126,3 +126,6 @@ BOJ 1308 solved <br>
 [DATE : 230302] <br>
 BOJ 2161 solved <br>
 <br>
+[DATE : 230303] <br>
+BOJ 5800 solved <br>
+<br>
