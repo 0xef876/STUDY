@@ -132,3 +132,6 @@ BOJ 5800 solved <br>
 [DATE : 230304] <br>
 BOJ 1316 solved <br>
 <br>
+[DATE : 230305] <br>
+BOJ 2576 solved <br>
+<br>
