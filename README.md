@@ -133,5 +133,8 @@ BOJ 5800 solved <br>
 BOJ 1316,2576 solved <br>
 <br>
 [DATE : 230305] <br>
-BOJ  2748 solved <br>
+BOJ 2748 solved <br>
+<br>
+[DATE : 230308] <br>
+BOJ 18870 solved <br>
 <br>
