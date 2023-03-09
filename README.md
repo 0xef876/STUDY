@@ -138,3 +138,6 @@ BOJ 2748 solved <br>
 [DATE : 230308] <br>
 BOJ 18870 solved <br>
 <br>
+[DATE : 230309] <br>
+BOJ 1931 solved <br>
+<br>
