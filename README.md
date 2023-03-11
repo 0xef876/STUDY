@@ -144,3 +144,6 @@ BOJ 1931 solved <br>
 [DATE : 230310] <br>
 BOJ 1074 solved <br>
 <br>
+[DATE : 230311] <br>
+BOJ 11931 solved <br>
+<br>
