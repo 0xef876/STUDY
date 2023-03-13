@@ -147,3 +147,6 @@ BOJ 1074 solved <br>
 [DATE : 230311] <br>
 BOJ 11931 solved <br>
 <br>
+[DATE : 230313] <br>
+BOJ 10815 solved <br>
+<br>
