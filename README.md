@@ -150,3 +150,6 @@ BOJ 11931 solved <br>
 [DATE : 230313] <br>
 BOJ 10815 solved <br>
 <br>
+[DATE : 230314] <br>
+BOJ 13241 solved <br>
+<br>
