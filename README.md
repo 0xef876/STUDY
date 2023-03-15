@@ -153,3 +153,7 @@ BOJ 10815 solved <br>
 [DATE : 230314] <br>
 BOJ 13241 solved <br>
 <br>
+<br>
+[DATE : 230315] <br>
+BOJ 25644 solved <br>
+<br>
