@@ -166,3 +166,6 @@ BOJ 16395 solved <br>
 [DATE : 230321] <br>
 BOJ 11816 solved <br>
 <br>
+[DATE : 230322] <br>
+BOJ 2167 solved <br>
+<br>
