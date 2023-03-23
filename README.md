@@ -169,3 +169,6 @@ BOJ 11816 solved <br>
 [DATE : 230322] <br>
 BOJ 2167 solved <br>
 <br>
+[DATE : 230323] <br>
+PRO Find_Young_Animal solved <br>
+<br>
