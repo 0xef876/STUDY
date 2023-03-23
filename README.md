@@ -170,5 +170,5 @@ BOJ 11816 solved <br>
 BOJ 2167 solved <br>
 <br>
 [DATE : 230323] <br>
-PRO Find_Young_Animal solved <br>
+PRO Find_Young_Animal,Sort_AnimalID solved <br>
 <br>
