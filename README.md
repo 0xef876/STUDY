@@ -178,3 +178,6 @@ BOJ 13458 solved <br>
 [DATE : 230427] <br>
 BOJ 6749 solved <br>
 <br>
+[DATE : 230525] <br>
+BOJ 7576 solved <br>
+<br>
