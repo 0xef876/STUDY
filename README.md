@@ -184,3 +184,6 @@ BOJ 7576 solved <br>
 [DATE : 230526] <br>
 BOJ 2630 solved <br>
 <br>
+[DATE : 230531] <br>
+BOJ 1012 solved <br>
+<br>
