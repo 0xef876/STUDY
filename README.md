@@ -187,32 +187,28 @@ BOJ 2630 solved <br>
 [DATE : 230531] <br>
 BOJ 1012 solved <br>
 <br>
-<br>
 [DATE : 230601] <br>
 BOJ 15650,15651,15652 solved <br>
-<br>
 <br>
 [DATE : 230602] <br>
 BOJ 15654 solved <br>
 <br>
-<br>
 [DATE : 230603] <br>
 BOJ 15657 solved <br>
-<br>
 <br>
 [DATE : 230604] <br>
 BOJ 15663 solved <br>
 <br>
-<br>
 [DATE : 230607] <br>
 BOJ 15666,16953 solved <br>
-<br>
 <br>
 [DATE : 230608] <br>
 BOJ 13549 solved <br>
 <br>
-<br>
 [DATE : 230609] <br>
 BOJ 14940 solved <br>
+<br>
+[DATE : 230610] <br>
+BOJ 11660 solved <br>
 <br>
 
