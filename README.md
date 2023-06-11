@@ -211,4 +211,6 @@ BOJ 14940 solved <br>
 [DATE : 230610] <br>
 BOJ 11660 solved <br>
 <br>
-
+[DATE : 230611] <br>
+BOJ 11053 solved <br>
+<br>
