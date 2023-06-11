@@ -39,7 +39,3 @@ for i in range(1,n):
     else:
         print(last_leaf, i)
     last_leaf = i
-
-
-
-
