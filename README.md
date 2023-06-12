@@ -215,5 +215,5 @@ BOJ 11660 solved <br>
 BOJ 11053,14244,25418,2448 solved <br>
 <br>
 [DATE : 230612] <br>
-BOJ 5639,1149 solved <br>
+BOJ 5639,1149,9465 solved <br>
 <br>
