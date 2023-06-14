@@ -220,3 +220,6 @@ BOJ 5639,1149,9465,1932,9935 solved <br>
 [DATE : 230613] <br>
 BOJ 4134 solved <br>
 <br>
+[DATE : 230614] <br>
+BOJ 12865,1991 solved <br>
+<br>
