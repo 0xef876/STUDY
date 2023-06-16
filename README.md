@@ -227,5 +227,5 @@ BOJ 12865,1991 solved <br>
 BOJ 9251 solved <br>
 <br>
 [DATE : 230616] <br>
-BOJ 11725 solved <br>
+BOJ 11725,17626 solved <br>
 <br>
