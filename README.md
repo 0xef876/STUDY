@@ -248,3 +248,6 @@ BOJ 15655,1806,1644,17298,2003 solved <br>
 <br>
 [DATE : 230627] <br>
 BOJ 28250,28263 solved <br>
+<br>
+[DATE : 230628] <br>
+BOJ 14916,11689,9527 solved <br>
