@@ -5,7 +5,7 @@
 ---
 
 [The year of 2022]<br>
-[Click Here ! 2022]("https://github.com/KittyPark/STUDY/blob/main/2022_README.md")
+[Click Here ! 2022](https://github.com/KittyPark/STUDY/blob/main/2022_README.md)
 
 ---
 
@@ -13,8 +13,10 @@
 ### 2023.01 ###
 [DATE : 230109, Bronze Problems]
 BOJ 10818,10950,10952,11654,2675,2920,8958,2562 solved
+
 [DATE : 230111, Class1++ Problems] 
 BOJ 10171, 10172, 10809, 10871, 1157, 1546, 2742, 2753, 2884, 2908, 3052, 9498 solved
+
 [DATE : 230112, Class2 Problems] 
 BOJ 4153, 10250,1085, 15829 solved 
 
