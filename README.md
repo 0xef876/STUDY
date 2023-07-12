@@ -281,5 +281,8 @@ BOJ 15656 solved
 
 [DATE : 230711]
 BOJ 2941,1193 solved
+
+[DATE : 230712]
+BOJ 15803 solved
 ```
 ---
