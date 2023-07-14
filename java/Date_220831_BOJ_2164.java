@@ -2,13 +2,12 @@
  * 수 찾기 2
  * https://www.acmicpc.net/problem/2164
  */
-package kitty;
 
 import java.util.Scanner;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Date_220831_BOJ_2164 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

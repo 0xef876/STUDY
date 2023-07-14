@@ -2,10 +2,9 @@
  * 숫자의 합
  * https://www.acmicpc.net/problem/11720
  */
-package kitty;
 import java.util.Scanner;
 
-public class Date_220826_BOJ_11720 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

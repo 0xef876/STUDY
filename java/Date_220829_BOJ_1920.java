@@ -2,14 +2,13 @@
  * 수 찾기
  * https://www.acmicpc.net/problem/1920
  */
-package kitty;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class Date_220829_BOJ_1920 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

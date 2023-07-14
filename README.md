@@ -287,5 +287,8 @@ BOJ 15803 solved
 
 [DATE : 230714]
 BOJ 1158 solved
+
+[DATE : 230715]
+BOJ 2023(java) solved
 ```
 ---

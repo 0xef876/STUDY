@@ -2,11 +2,10 @@
  * 숫자의 개수
  * https://www.acmicpc.net/problem/2577
  */
-package kitty;
 
 import java.util.Scanner;
 
-public class Date_220826_BOJ_2577 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

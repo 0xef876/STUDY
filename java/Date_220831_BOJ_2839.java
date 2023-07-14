@@ -2,11 +2,9 @@
  * 설탕 배달
  * https://www.acmicpc.net/problem/2839
  */
-package kitty;
-
 import java.util.Scanner;
 
-public class Date_220831_BOJ_2839 {
+public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);

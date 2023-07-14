@@ -2,11 +2,10 @@
  * 두 수 비교하기
  * https://www.acmicpc.net/problem/1330
  */
-package kitty;
 
 import java.util.Scanner;
 
-public class Date_220825_BOJ_1330 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

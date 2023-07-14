@@ -2,11 +2,10 @@
  * 소수 구하기
  * https://www.acmicpc.net/problem/1929
  */
-package kitty;
 
 import java.util.Scanner;
 
-public class Date_220827_BOJ_1929 {
+public class Main {
 	
 	public static boolean[] array;
 	

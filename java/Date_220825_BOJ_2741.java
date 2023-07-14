@@ -2,11 +2,10 @@
  * N 찍기
  * https://www.acmicpc.net/problem/2741
  */
-package kitty;
 
 import java.util.Scanner;
 
-public class Date_220825_BOJ_2741 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

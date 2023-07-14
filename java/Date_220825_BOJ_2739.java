@@ -2,11 +2,10 @@
  * 구구단
  * acmicpc.net/problem/2739
  */
-package kitty;
 
 import java.util.Scanner;
 
-public class Date_220825_BOJ_2739 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

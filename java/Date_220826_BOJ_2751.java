@@ -2,13 +2,12 @@
  * 수 정렬하기 2
  * https://www.acmicpc.net/problem/2751
  */
-package kitty;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Date_220826_BOJ_2751 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

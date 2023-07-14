@@ -2,11 +2,10 @@
  * 소수 찾기
  * https://www.acmicpc.net/problem/1978
  */
-package kitty;
 
 import java.util.Scanner;
 
-public class Date_220831_BOJ_1978 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
