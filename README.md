@@ -293,5 +293,8 @@ BOJ 2023(java) solved
 
 [DATE : 230717]
 BOJ 1427 solved
+
+[DATE : 230718]
+BOJ 9613 solved
 ```
 ---
