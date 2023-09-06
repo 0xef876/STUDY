@@ -304,3 +304,9 @@ BOJ 9613 solved
 BOJ 1780 solved
 ```
 ---
+```python
+### 2023.09 ###
+[DATE : 230906]
+BOJ 17069,17070 solved
+```
+---
